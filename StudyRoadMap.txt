@@ -1,0 +1,490 @@
+====================================================================================
+MASTER STUDY ROADMAP - AI / ML (POST MATHEMATICS)
+====================================================================================
+
+PHASE 1 : MACHINE LEARNING FOUNDATIONS
+--------------------------------------
+
+Chapter 1 : Introduction to Machine Learning
+--------------------------------------------
+• Artificial Intelligence
+• Machine Learning
+• Deep Learning
+• Data Science
+• Types of Learning
+• Supervised Learning
+• Unsupervised Learning
+• Semi-Supervised Learning
+• Self-Supervised Learning
+• Reinforcement Learning
+• Machine Learning Pipeline
+• Applications of ML
+
+
+Chapter 2 : Data Fundamentals
+-----------------------------
+• Data
+• Dataset
+• Sample
+• Observation
+• Instance
+• Record
+• Feature
+• Feature Matrix (X)
+• Target Variable (Y)
+• Label
+• Numerical Features
+• Categorical Features
+• Structured Data
+• Unstructured Data
+• Tabular Data
+• Training Dataset
+• Validation Dataset
+• Test Dataset
+
+
+Chapter 3 : Learning Fundamentals
+---------------------------------
+• Model
+• Parameters
+• Hyperparameters
+• Learning
+• Prediction
+• Inference
+• Generalization
+• Memorization
+• Training
+• Testing
+• Validation
+• Epoch
+• Batch
+• Mini Batch
+• Iteration
+
+
+Chapter 4 : Model Behaviour
+---------------------------
+• Bias
+• Variance
+• Bias-Variance Tradeoff
+• Underfitting
+• Overfitting
+• Generalization
+• Regularization
+• L1 Regularization
+• L2 Regularization
+• Early Stopping
+• Data Augmentation
+• Cross Validation
+
+
+Chapter 5 : Distance & Similarity
+---------------------------------
+• Euclidean Distance
+• Manhattan Distance
+• Minkowski Distance
+• Cosine Similarity
+• Hamming Distance
+• Mahalanobis Distance
+• Dot Product
+• Similarity Measures
+
+
+====================================================================================
+
+PHASE 2 : DATA PREPROCESSING
+----------------------------
+
+Chapter 6 : Data Cleaning
+-------------------------
+• Missing Values
+• Duplicate Records
+• Outliers
+• Noise
+• Inconsistent Data
+• Data Leakage
+
+
+Chapter 7 : Feature Engineering
+-------------------------------
+• Feature Selection
+• Feature Extraction
+• Encoding
+• One Hot Encoding
+• Label Encoding
+• Ordinal Encoding
+• Target Encoding
+• Feature Scaling
+• Standardization
+• Normalization
+• Min-Max Scaling
+• Robust Scaling
+• Polynomial Features
+
+
+Chapter 8 : Exploratory Data Analysis (EDA)
+-------------------------------------------
+• Univariate Analysis
+• Bivariate Analysis
+• Multivariate Analysis
+• Correlation
+• Covariance
+• Heatmaps
+• Histograms
+• Boxplots
+• Pairplots
+• Scatterplots
+
+
+====================================================================================
+
+PHASE 3 : PYTHON FOR MACHINE LEARNING
+-------------------------------------
+
+Chapter 9 : NumPy
+-----------------
+• ndarray
+• Array Creation
+• Data Types
+• Array Attributes
+• Indexing
+• Slicing
+• Broadcasting
+• Vectorization
+• Universal Functions
+• Aggregation
+• Linear Algebra
+• Random Module
+
+
+Chapter 10 : Pandas
+-------------------
+• Series
+• DataFrame
+• Reading Data
+• Writing Data
+• Indexing
+• Filtering
+• Sorting
+• GroupBy
+• Merge
+• Join
+• Missing Values
+• Pivot Tables
+
+
+Chapter 11 : Visualization
+--------------------------
+• Matplotlib
+• Seaborn
+• Line Plot
+• Scatter Plot
+• Histogram
+• Bar Plot
+• Pie Chart
+• Box Plot
+• Violin Plot
+• Heatmap
+• Pair Plot
+
+
+====================================================================================
+
+PHASE 4 : LINEAR MODELS
+-----------------------
+
+Chapter 12 : Linear Regression
+------------------------------
+• Regression
+• Least Squares
+• Residual
+• Cost Function
+• MSE
+• RMSE
+• MAE
+• R² Score
+• Gradient Descent
+• Normal Equation
+• Assumptions
+• Multiple Linear Regression
+• Polynomial Regression
+• Ridge
+• Lasso
+• ElasticNet
+
+
+Chapter 13 : Logistic Regression
+--------------------------------
+• Binary Classification
+• Sigmoid Function
+• Odds
+• Log Odds
+• Logit
+• Maximum Likelihood
+• Cross Entropy
+• Decision Boundary
+• Multiclass Classification
+• Softmax
+
+
+====================================================================================
+
+PHASE 5 : DECISION TREES
+------------------------
+
+Chapter 14 : Decision Tree Foundations
+--------------------------------------
+• Decision Tree
+• Binary Tree
+• Recursive Partitioning
+• Node
+• Root Node
+• Internal Node
+• Leaf Node
+• Tree Depth
+• Tree Height
+• Splitting
+• Decision Boundary
+• Purity
+• Impurity
+• Entropy
+• Information Gain
+• Gini Impurity
+• Gini Index
+• Variance Reduction
+• Gain Ratio
+• Stopping Criteria
+• Pruning
+• Pre-Pruning
+• Post-Pruning
+
+
+====================================================================================
+
+PHASE 6 : ENSEMBLE LEARNING
+---------------------------
+
+Chapter 15 : Ensemble Learning Foundations
+------------------------------------------
+• Ensemble Learning
+• Weak Learner
+• Strong Learner
+• Diversity
+• Voting
+• Majority Voting
+• Weighted Voting
+• Averaging
+• Stacking
+• Blending
+• Bootstrap Sampling
+• Out-of-Bag Samples
+• Bootstrap Aggregation
+• Bagging
+• Boosting
+
+
+Chapter 16 : Random Forest
+--------------------------
+• Random Forest
+• Random Feature Selection
+• Feature Importance
+• OOB Error
+• Tree Diversity
+
+
+Chapter 17 : Boosting Algorithms
+--------------------------------
+• AdaBoost
+• Gradient Boosting
+• XGBoost
+• LightGBM
+• CatBoost
+
+
+====================================================================================
+
+PHASE 7 : OTHER CLASSICAL ML ALGORITHMS
+---------------------------------------
+
+Chapter 18 : Support Vector Machines
+------------------------------------
+• Hyperplane
+• Margin
+• Maximum Margin
+• Support Vectors
+• Hard Margin
+• Soft Margin
+• Kernel Trick
+• Linear Kernel
+• Polynomial Kernel
+• RBF Kernel
+
+
+Chapter 19 : K-Nearest Neighbours
+---------------------------------
+• Lazy Learning
+• Distance Metrics
+• Neighbour Selection
+• Voting
+• Curse of Dimensionality
+
+
+Chapter 20 : Naive Bayes
+------------------------
+• Bayes Theorem
+• Conditional Probability
+• Prior
+• Posterior
+• Likelihood
+• Independence Assumption
+• Gaussian NB
+• Multinomial NB
+• Bernoulli NB
+
+
+====================================================================================
+
+PHASE 8 : UNSUPERVISED LEARNING
+-------------------------------
+
+Chapter 21 : Clustering
+-----------------------
+• Clustering
+• K-Means
+• Hierarchical Clustering
+• DBSCAN
+• Centroid
+• Distance Measures
+• Silhouette Score
+
+
+Chapter 22 : Dimensionality Reduction
+-------------------------------------
+• PCA
+• Eigenfaces
+• t-SNE
+• UMAP
+• Explained Variance
+• Principal Components
+
+
+====================================================================================
+
+PHASE 9 : MODEL EVALUATION
+--------------------------
+
+Chapter 23 : Classification Metrics
+-----------------------------------
+• Confusion Matrix
+• Accuracy
+• Precision
+• Recall
+• Specificity
+• Sensitivity
+• F1 Score
+• ROC Curve
+• AUC
+• Precision Recall Curve
+
+
+Chapter 24 : Regression Metrics
+-------------------------------
+• MAE
+• MSE
+• RMSE
+• RMSLE
+• MAPE
+• R² Score
+• Adjusted R²
+
+
+Chapter 25 : Validation Techniques
+----------------------------------
+• Hold-Out Validation
+• K-Fold Cross Validation
+• Stratified K-Fold
+• Leave-One-Out
+• Grid Search
+• Random Search
+• Bayesian Optimization
+
+
+====================================================================================
+
+PHASE 10 : NEURAL NETWORKS
+--------------------------
+
+Chapter 26 : Neural Network Foundations
+---------------------------------------
+• Perceptron
+• Artificial Neuron
+• Weights
+• Bias
+• Layers
+• Feed Forward
+• Backpropagation
+• Activation Functions
+• Loss Functions
+• Optimizers
+• Learning Rate
+• Batch Size
+• Epochs
+• Dropout
+• Batch Normalization
+
+
+Chapter 27 : Deep Learning
+--------------------------
+• MLP
+• CNN
+• RNN
+• LSTM
+• GRU
+• Attention
+• Transformers
+• Positional Encoding
+• Self Attention
+• Multi Head Attention
+
+
+====================================================================================
+
+PHASE 11 : GENERATIVE AI
+------------------------
+
+Chapter 28 : Generative Models
+------------------------------
+• Autoencoders
+• Variational Autoencoders
+• GAN
+• Diffusion Models
+• Stable Diffusion
+• LLM Fundamentals
+• Prompt Engineering
+• Fine Tuning
+• RAG
+• Embeddings
+• Vector Databases
+
+
+====================================================================================
+
+PHASE 12 : PRODUCTION ML
+------------------------
+
+Chapter 29 : MLOps
+------------------
+• Model Deployment
+• Pipelines
+• Model Versioning
+• Feature Store
+• Experiment Tracking
+• Drift Detection
+• Monitoring
+• CI/CD
+• Docker
+• Kubernetes
+• MLflow
+• ONNX
+
+====================================================================================
