@@ -1,490 +1,498 @@
-====================================================================================
-MASTER STUDY ROADMAP - AI / ML (POST MATHEMATICS)
-====================================================================================
-
-PHASE 1 : MACHINE LEARNING FOUNDATIONS
---------------------------------------
-
-Chapter 1 : Introduction to Machine Learning
---------------------------------------------
-• Artificial Intelligence
-• Machine Learning
-• Deep Learning
-• Data Science
-• Types of Learning
-• Supervised Learning
-• Unsupervised Learning
-• Semi-Supervised Learning
-• Self-Supervised Learning
-• Reinforcement Learning
-• Machine Learning Pipeline
-• Applications of ML
-
-
-Chapter 2 : Data Fundamentals
------------------------------
-• Data
-• Dataset
-• Sample
-• Observation
-• Instance
-• Record
-• Feature
-• Feature Matrix (X)
-• Target Variable (Y)
-• Label
-• Numerical Features
-• Categorical Features
-• Structured Data
-• Unstructured Data
-• Tabular Data
-• Training Dataset
-• Validation Dataset
-• Test Dataset
-
-
-Chapter 3 : Learning Fundamentals
----------------------------------
-• Model
-• Parameters
-• Hyperparameters
-• Learning
-• Prediction
-• Inference
-• Generalization
-• Memorization
-• Training
-• Testing
-• Validation
-• Epoch
-• Batch
-• Mini Batch
-• Iteration
-
-
-Chapter 4 : Model Behaviour
----------------------------
-• Bias
-• Variance
-• Bias-Variance Tradeoff
-• Underfitting
-• Overfitting
-• Generalization
-• Regularization
-• L1 Regularization
-• L2 Regularization
-• Early Stopping
-• Data Augmentation
-• Cross Validation
-
-
-Chapter 5 : Distance & Similarity
----------------------------------
-• Euclidean Distance
-• Manhattan Distance
-• Minkowski Distance
-• Cosine Similarity
-• Hamming Distance
-• Mahalanobis Distance
-• Dot Product
-• Similarity Measures
-
-
-====================================================================================
-
-PHASE 2 : DATA PREPROCESSING
-----------------------------
-
-Chapter 6 : Data Cleaning
--------------------------
-• Missing Values
-• Duplicate Records
-• Outliers
-• Noise
-• Inconsistent Data
-• Data Leakage
-
-
-Chapter 7 : Feature Engineering
--------------------------------
-• Feature Selection
-• Feature Extraction
-• Encoding
-• One Hot Encoding
-• Label Encoding
-• Ordinal Encoding
-• Target Encoding
-• Feature Scaling
-• Standardization
-• Normalization
-• Min-Max Scaling
-• Robust Scaling
-• Polynomial Features
-
-
-Chapter 8 : Exploratory Data Analysis (EDA)
--------------------------------------------
-• Univariate Analysis
-• Bivariate Analysis
-• Multivariate Analysis
-• Correlation
-• Covariance
-• Heatmaps
-• Histograms
-• Boxplots
-• Pairplots
-• Scatterplots
-
-
-====================================================================================
-
-PHASE 3 : PYTHON FOR MACHINE LEARNING
--------------------------------------
-
-Chapter 9 : NumPy
------------------
-• ndarray
-• Array Creation
-• Data Types
-• Array Attributes
-• Indexing
-• Slicing
-• Broadcasting
-• Vectorization
-• Universal Functions
-• Aggregation
-• Linear Algebra
-• Random Module
-
-
-Chapter 10 : Pandas
--------------------
-• Series
-• DataFrame
-• Reading Data
-• Writing Data
-• Indexing
-• Filtering
-• Sorting
-• GroupBy
-• Merge
-• Join
-• Missing Values
-• Pivot Tables
-
-
-Chapter 11 : Visualization
---------------------------
-• Matplotlib
-• Seaborn
-• Line Plot
-• Scatter Plot
-• Histogram
-• Bar Plot
-• Pie Chart
-• Box Plot
-• Violin Plot
-• Heatmap
-• Pair Plot
-
-
-====================================================================================
-
-PHASE 4 : LINEAR MODELS
------------------------
-
-Chapter 12 : Linear Regression
-------------------------------
-• Regression
-• Least Squares
-• Residual
-• Cost Function
-• MSE
-• RMSE
-• MAE
-• R² Score
-• Gradient Descent
-• Normal Equation
-• Assumptions
-• Multiple Linear Regression
-• Polynomial Regression
-• Ridge
-• Lasso
-• ElasticNet
-
-
-Chapter 13 : Logistic Regression
---------------------------------
-• Binary Classification
-• Sigmoid Function
-• Odds
-• Log Odds
-• Logit
-• Maximum Likelihood
-• Cross Entropy
-• Decision Boundary
-• Multiclass Classification
-• Softmax
-
-
-====================================================================================
-
-PHASE 5 : DECISION TREES
-------------------------
-
-Chapter 14 : Decision Tree Foundations
---------------------------------------
-• Decision Tree
-• Binary Tree
-• Recursive Partitioning
-• Node
-• Root Node
-• Internal Node
-• Leaf Node
-• Tree Depth
-• Tree Height
-• Splitting
-• Decision Boundary
-• Purity
-• Impurity
-• Entropy
-• Information Gain
-• Gini Impurity
-• Gini Index
-• Variance Reduction
-• Gain Ratio
-• Stopping Criteria
-• Pruning
-• Pre-Pruning
-• Post-Pruning
-
-
-====================================================================================
-
-PHASE 6 : ENSEMBLE LEARNING
----------------------------
-
-Chapter 15 : Ensemble Learning Foundations
-------------------------------------------
-• Ensemble Learning
-• Weak Learner
-• Strong Learner
-• Diversity
-• Voting
-• Majority Voting
-• Weighted Voting
-• Averaging
-• Stacking
-• Blending
-• Bootstrap Sampling
-• Out-of-Bag Samples
-• Bootstrap Aggregation
-• Bagging
-• Boosting
-
-
-Chapter 16 : Random Forest
---------------------------
-• Random Forest
-• Random Feature Selection
-• Feature Importance
-• OOB Error
-• Tree Diversity
-
-
-Chapter 17 : Boosting Algorithms
---------------------------------
-• AdaBoost
-• Gradient Boosting
-• XGBoost
-• LightGBM
-• CatBoost
-
-
-====================================================================================
-
-PHASE 7 : OTHER CLASSICAL ML ALGORITHMS
----------------------------------------
-
-Chapter 18 : Support Vector Machines
-------------------------------------
-• Hyperplane
-• Margin
-• Maximum Margin
-• Support Vectors
-• Hard Margin
-• Soft Margin
-• Kernel Trick
-• Linear Kernel
-• Polynomial Kernel
-• RBF Kernel
-
-
-Chapter 19 : K-Nearest Neighbours
----------------------------------
-• Lazy Learning
-• Distance Metrics
-• Neighbour Selection
-• Voting
-• Curse of Dimensionality
-
-
-Chapter 20 : Naive Bayes
-------------------------
-• Bayes Theorem
-• Conditional Probability
-• Prior
-• Posterior
-• Likelihood
-• Independence Assumption
-• Gaussian NB
-• Multinomial NB
-• Bernoulli NB
-
-
-====================================================================================
-
-PHASE 8 : UNSUPERVISED LEARNING
--------------------------------
-
-Chapter 21 : Clustering
------------------------
-• Clustering
-• K-Means
-• Hierarchical Clustering
-• DBSCAN
-• Centroid
-• Distance Measures
-• Silhouette Score
-
-
-Chapter 22 : Dimensionality Reduction
--------------------------------------
-• PCA
-• Eigenfaces
-• t-SNE
-• UMAP
-• Explained Variance
-• Principal Components
-
-
-====================================================================================
-
-PHASE 9 : MODEL EVALUATION
---------------------------
-
-Chapter 23 : Classification Metrics
------------------------------------
-• Confusion Matrix
-• Accuracy
-• Precision
-• Recall
-• Specificity
-• Sensitivity
-• F1 Score
-• ROC Curve
-• AUC
-• Precision Recall Curve
-
-
-Chapter 24 : Regression Metrics
--------------------------------
-• MAE
-• MSE
-• RMSE
-• RMSLE
-• MAPE
-• R² Score
-• Adjusted R²
-
-
-Chapter 25 : Validation Techniques
-----------------------------------
-• Hold-Out Validation
-• K-Fold Cross Validation
-• Stratified K-Fold
-• Leave-One-Out
-• Grid Search
-• Random Search
-• Bayesian Optimization
-
-
-====================================================================================
-
-PHASE 10 : NEURAL NETWORKS
---------------------------
-
-Chapter 26 : Neural Network Foundations
----------------------------------------
-• Perceptron
-• Artificial Neuron
-• Weights
-• Bias
-• Layers
-• Feed Forward
-• Backpropagation
-• Activation Functions
-• Loss Functions
-• Optimizers
-• Learning Rate
-• Batch Size
-• Epochs
-• Dropout
-• Batch Normalization
-
-
-Chapter 27 : Deep Learning
---------------------------
-• MLP
-• CNN
-• RNN
-• LSTM
-• GRU
-• Attention
-• Transformers
-• Positional Encoding
-• Self Attention
-• Multi Head Attention
-
-
-====================================================================================
-
-PHASE 11 : GENERATIVE AI
-------------------------
-
-Chapter 28 : Generative Models
-------------------------------
-• Autoencoders
-• Variational Autoencoders
-• GAN
-• Diffusion Models
-• Stable Diffusion
-• LLM Fundamentals
-• Prompt Engineering
-• Fine Tuning
-• RAG
-• Embeddings
-• Vector Databases
-
-
-====================================================================================
-
-PHASE 12 : PRODUCTION ML
-------------------------
-
-Chapter 29 : MLOps
-------------------
-• Model Deployment
-• Pipelines
-• Model Versioning
-• Feature Store
-• Experiment Tracking
-• Drift Detection
-• Monitoring
-• CI/CD
-• Docker
-• Kubernetes
-• MLflow
-• ONNX
-
-====================================================================================
+Machine Learning Complete Roadmap
+
+Chapter 1 : Python for Machine Learning
+
+    Topic 1 : Python Fundamentals
+        Variables
+        Data Types
+        Operators
+        Control Statements
+        Functions
+        Modules
+        Exception Handling
+    Topic 2 : Object Oriented Programming
+        Classes
+        Objects
+        Constructors
+        Inheritance
+        Polymorphism
+        Encapsulation
+        Abstraction
+    Topic 3 : NumPy
+        Arrays
+        Indexing
+        Slicing
+        Reshaping
+        Broadcasting
+        Universal Functions
+        Aggregation
+    Topic 4 : Pandas
+        Series
+        DataFrame
+        Indexing
+        Filtering
+        Missing Values
+        GroupBy
+        Merge
+        Join
+        Pivot Table
+    Topic 5 : Data Visualization
+        Matplotlib
+        Seaborn
+        Line Plot
+        Scatter Plot
+        Bar Plot
+        Histogram
+        Box Plot
+        Heatmap
+        Pair Plot
+
+------------------------------------------------------------
+
+Chapter 2 : Mathematics for Machine Learning
+    Topic 1 : Linear Algebra
+        Scalars
+        Vectors
+        Matrices
+        Tensors
+        Matrix Operations
+        Matrix Multiplication
+        Transpose
+        Inverse
+        Determinant
+        Rank
+        Eigenvalues
+        Eigenvectors
+    Topic 2 : Calculus
+        Functions
+        Limits
+        Differentiation
+        Partial Derivatives
+        Gradient
+        Chain Rule
+        Optimization
+    Topic 3 : Probability
+        Probability Rules
+        Random Variables
+        Conditional Probability
+        Bayes Theorem
+    Topic 4 : Statistics
+        Mean
+        Median
+        Mode
+        Variance
+        Standard Deviation
+        Covariance
+        Correlation
+        Skewness
+        Kurtosis
+
+------------------------------------------------------------
+
+Chapter 3 : Data Preprocessing
+    Topic 1 : Data Collection
+    Topic 2 : Data Exploration
+        Shape
+        Columns
+        Data Types
+        Statistical Summary
+    Topic 3 : Missing Values
+        Detection
+        Removal
+        Mean Imputation
+        Median Imputation
+        Mode Imputation
+        KNN Imputer
+    Topic 4 : Duplicate Data
+    Topic 5 : Inconsistent Data
+    Topic 6 : Noisy Data
+    Topic 7 : Outliers
+        IQR
+        Z-Score
+        Isolation Forest
+    Topic 8 : Feature Scaling
+        Normalization
+        Standardization
+        Robust Scaling
+        MinMax Scaling
+    Topic 9 : Encoding
+        Label Encoding
+        One Hot Encoding
+        Ordinal Encoding
+        Target Encoding
+    Topic 10 : Feature Engineering
+    Topic 11 : Feature Selection
+    Topic 12 : Train Test Split
+
+------------------------------------------------------------
+
+Chapter 4 : Machine Learning Fundamentals
+    Topic 0 : Introduction
+        AI
+        Machine Learning
+        Deep Learning
+        Data Science
+    Topic 1 : Types of Machine Learning
+        Supervised Learning
+        Unsupervised Learning
+        Semi Supervised Learning
+        Self Supervised Learning
+        Reinforcement Learning
+    Topic 2 : Features and Labels
+    Topic 3 : Clustering
+        K-Means
+        Hierarchical Clustering
+        DBSCAN
+        Cluster Evaluation
+    Topic 4 : Principal Component Analysis (PCA)
+    Topic 5 : Bias and Variance
+    Topic 6 : Underfitting and Overfitting
+    Topic 7 : Cross Validation
+        K Fold
+        Stratified K Fold
+        Leave One Out
+        Shuffle Split
+        Time Series Split
+    Topic 8 : Evaluation Metrics
+        Confusion Matrix
+        Accuracy
+        Precision
+        Recall
+        F1 Score
+        ROC Curve
+        AUC
+        Precision Recall Curve
+        MAE
+        MSE
+        RMSE
+        R² Score
+
+------------------------------------------------------------
+
+Chapter 5 : Decision Trees
+    Topic 1 : Decision Tree
+    Topic 2 : Tree Terminology
+    Topic 3 : Entropy
+    Topic 4 : Information Gain
+    Topic 5 : Gini Impurity
+    Topic 6 : ID3 Algorithm
+    Topic 7 : CART Algorithm
+    Topic 8 : Regression Tree
+    Topic 9 : Pruning
+        Pre Pruning
+        Post Pruning
+        Cost Complexity Pruning
+    Topic 10 : Hyperparameters
+        max_depth
+        min_samples_split
+        min_samples_leaf
+        criterion
+        ccp_alpha
+    Topic 11 : Titanic Project
+
+------------------------------------------------------------
+
+Chapter 6 : Random Forest
+
+    Topic 1 : Why Random Forest
+
+    Topic 2 : Bootstrap Sampling
+
+    Topic 3 : Bagging
+
+    Topic 4 : Feature Randomness
+
+    Topic 5 : Random Forest Algorithm
+
+    Topic 6 : Out of Bag (OOB) Score
+
+    Topic 7 : Feature Importance
+
+    Topic 8 : Hyperparameters
+        n_estimators
+        max_depth
+        max_features
+        bootstrap
+        criterion
+
+    Topic 9 : Titanic Project
+
+------------------------------------------------------------
+
+Chapter 7 : Ensemble Learning
+
+    Topic 1 : Why Ensemble Learning
+
+    Topic 2 : Voting
+        Hard Voting
+        Soft Voting
+
+    Topic 3 : Bagging
+
+    Topic 4 : Boosting
+
+    Topic 5 : AdaBoost
+
+    Topic 6 : Gradient Boosting
+
+    Topic 7 : XGBoost
+
+    Topic 8 : LightGBM
+
+    Topic 9 : CatBoost
+
+    Topic 10 : Algorithm Comparison
+
+    Topic 11 : Titanic Project
+
+------------------------------------------------------------
+
+Chapter 8 : Support Vector Machine
+
+    Topic 1 : Why SVM
+
+    Topic 2 : Linear Separability
+
+    Topic 3 : Hyperplane
+
+    Topic 4 : Margin
+
+    Topic 5 : Support Vectors
+
+    Topic 6 : Maximum Margin Classifier
+
+    Topic 7 : Soft Margin
+
+    Topic 8 : Hinge Loss
+
+    Topic 9 : Kernel Trick
+
+    Topic 10 : Kernels
+        Linear
+        Polynomial
+        RBF
+        Sigmoid
+
+    Topic 11 : Hyperparameters
+        C
+        Gamma
+        Kernel
+
+    Topic 12 : Multi-Class SVM
+        One vs Rest
+        One vs One
+
+    Topic 13 : Breast Cancer Project
+
+------------------------------------------------------------
+
+Chapter 9 : Naive Bayes
+
+    Topic 1 : Why Naive Bayes
+
+    Topic 2 : Bayes Theorem
+
+    Topic 3 : Conditional Probability
+
+    Topic 4 : Prior Probability
+
+    Topic 5 : Likelihood
+
+    Topic 6 : Posterior Probability
+
+    Topic 7 : Independence Assumption
+
+    Topic 8 : Gaussian Naive Bayes
+
+    Topic 9 : Multinomial Naive Bayes
+
+    Topic 10 : Bernoulli Naive Bayes
+
+    Topic 11 : Laplace Smoothing
+
+    Topic 12 : Log Probability
+
+    Topic 13 : Hyperparameters
+
+    Topic 14 : Spam Detection Project
+
+------------------------------------------------------------
+
+Chapter 10 : K-Nearest Neighbors (KNN)
+
+    Topic 1 : Why KNN
+
+    Topic 2 : Lazy Learning
+
+    Topic 3 : Distance Metrics
+        Euclidean
+        Manhattan
+        Minkowski
+        Cosine
+
+    Topic 4 : Choosing K
+
+    Topic 5 : Voting
+
+    Topic 6 : Weighted KNN
+
+    Topic 7 : KD Tree
+
+    Topic 8 : Ball Tree
+
+    Topic 9 : Curse of Dimensionality
+
+    Topic 10 : Hyperparameters
+        n_neighbors
+        weights
+        metric
+        algorithm
+        leaf_size
+
+    Topic 11 : Approximate Nearest Neighbor
+        FAISS
+        Annoy
+        HNSW
+
+    Topic 12 : Breast Cancer Project
+
+    Topic 13 : Wine Regression Project
+
+------------------------------------------------------------
+
+Chapter 11 : Artificial Neural Networks (ANN)
+
+    Topic 1 : Why Deep Learning
+
+    Topic 2 : Biological Neuron
+
+    Topic 3 : Perceptron
+
+    Topic 4 : Activation Functions
+        Binary Step
+        Linear
+        Sigmoid
+        Tanh
+        ReLU
+        Leaky ReLU
+        ELU
+        Softmax
+
+    Topic 5 : Loss Functions
+        MSE
+        MAE
+        Binary Cross Entropy
+        Categorical Cross Entropy
+        Huber Loss
+
+    Topic 6 : Feed Forward Neural Networks
+
+    Topic 7 : Forward Propagation
+
+    Topic 8 : Backpropagation
+
+    Topic 9 : Gradient Descent
+        Batch Gradient Descent
+        Mini Batch Gradient Descent
+        Stochastic Gradient Descent
+
+    Topic 10 : Optimizers
+        SGD
+        Momentum
+        AdaGrad
+        RMSProp
+        Adam
+
+    Topic 11 : Vanishing and Exploding Gradient
+
+    Topic 12 : Regularization
+        L1
+        L2
+        Dropout
+        Early Stopping
+        Batch Normalization
+
+    Topic 13 : Hyperparameters
+        Learning Rate
+        Epochs
+        Batch Size
+        Hidden Layers
+        Hidden Units
+        Optimizer
+        Activation Function
+
+    Topic 14 : MNIST Project
+
+------------------------------------------------------------
+
+Chapter 12 : Convolutional Neural Networks (CNN)
+
+    Topic 1 : Why CNN
+
+    Topic 2 : CNN vs ANN
+
+    Topic 3 : Image Representation
+
+    Topic 4 : Convolution Operation
+
+    Topic 5 : Filters and Kernels
+
+    Topic 6 : Stride
+
+    Topic 7 : Padding
+
+    Topic 8 : Feature Maps
+
+    Topic 9 : Pooling
+        Max Pooling
+        Average Pooling
+        Global Average Pooling
+
+    Topic 10 : CNN Architectures
+        LeNet
+        AlexNet
+        VGG
+        GoogLeNet (Inception)
+        ResNet
+        DenseNet
+        EfficientNet
+
+    Topic 11 : Transfer Learning
+
+    Topic 12 : Data Augmentation
+
+    Topic 13 : Hyperparameters
+
+    Topic 14 : CIFAR-10 Project
+
+------------------------------------------------------------
+
+Chapter 13 : Transformers & Modern Deep Learning
+
+    Topic 1 : Why Transformers
+
+    Topic 2 : Limitations of RNN and LSTM
+
+    Topic 3 : Attention Mechanism
+
+    Topic 4 : Self Attention
+
+    Topic 5 : Multi Head Attention
+
+    Topic 6 : Positional Encoding
+
+    Topic 7 : Encoder Architecture
+
+    Topic 8 : Decoder Architecture
+
+    Topic 9 : Transformer Architecture
+
+    Topic 10 : BERT
+
+    Topic 11 : GPT
+
+    Topic 12 : Fine Tuning Transformers
+
+    Topic 13 : Hugging Face Transformers
+
+    Topic 14 : NLP Project
