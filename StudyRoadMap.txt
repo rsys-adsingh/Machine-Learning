@@ -50,6 +50,7 @@ Chapter 1 : Python for Machine Learning
 ------------------------------------------------------------
 
 Chapter 2 : Mathematics for Machine Learning
+
     Topic 1 : Linear Algebra
         Scalars
         Vectors
@@ -90,6 +91,7 @@ Chapter 2 : Mathematics for Machine Learning
 ------------------------------------------------------------
 
 Chapter 3 : Data Preprocessing
+
     Topic 1 : Data Collection
     Topic 2 : Data Exploration
         Shape
@@ -127,6 +129,7 @@ Chapter 3 : Data Preprocessing
 ------------------------------------------------------------
 
 Chapter 4 : Machine Learning Fundamentals
+
     Topic 0 : Introduction
         AI
         Machine Learning
@@ -170,6 +173,7 @@ Chapter 4 : Machine Learning Fundamentals
 ------------------------------------------------------------
 
 Chapter 5 : Decision Trees
+
     Topic 1 : Decision Tree
     Topic 2 : Tree Terminology
     Topic 3 : Entropy
@@ -195,26 +199,18 @@ Chapter 5 : Decision Trees
 Chapter 6 : Random Forest
 
     Topic 1 : Why Random Forest
-
     Topic 2 : Bootstrap Sampling
-
     Topic 3 : Bagging
-
     Topic 4 : Feature Randomness
-
     Topic 5 : Random Forest Algorithm
-
     Topic 6 : Out of Bag (OOB) Score
-
     Topic 7 : Feature Importance
-
     Topic 8 : Hyperparameters
         n_estimators
         max_depth
         max_features
         bootstrap
         criterion
-
     Topic 9 : Titanic Project
 
 ------------------------------------------------------------
@@ -222,27 +218,17 @@ Chapter 6 : Random Forest
 Chapter 7 : Ensemble Learning
 
     Topic 1 : Why Ensemble Learning
-
     Topic 2 : Voting
         Hard Voting
         Soft Voting
-
     Topic 3 : Bagging
-
     Topic 4 : Boosting
-
     Topic 5 : AdaBoost
-
     Topic 6 : Gradient Boosting
-
     Topic 7 : XGBoost
-
     Topic 8 : LightGBM
-
     Topic 9 : CatBoost
-
     Topic 10 : Algorithm Comparison
-
     Topic 11 : Titanic Project
 
 ------------------------------------------------------------
@@ -250,38 +236,26 @@ Chapter 7 : Ensemble Learning
 Chapter 8 : Support Vector Machine
 
     Topic 1 : Why SVM
-
     Topic 2 : Linear Separability
-
     Topic 3 : Hyperplane
-
     Topic 4 : Margin
-
     Topic 5 : Support Vectors
-
     Topic 6 : Maximum Margin Classifier
-
     Topic 7 : Soft Margin
-
     Topic 8 : Hinge Loss
-
     Topic 9 : Kernel Trick
-
     Topic 10 : Kernels
         Linear
         Polynomial
         RBF
         Sigmoid
-
     Topic 11 : Hyperparameters
         C
         Gamma
         Kernel
-
     Topic 12 : Multi-Class SVM
         One vs Rest
         One vs One
-
     Topic 13 : Breast Cancer Project
 
 ------------------------------------------------------------
@@ -289,31 +263,18 @@ Chapter 8 : Support Vector Machine
 Chapter 9 : Naive Bayes
 
     Topic 1 : Why Naive Bayes
-
     Topic 2 : Bayes Theorem
-
     Topic 3 : Conditional Probability
-
     Topic 4 : Prior Probability
-
     Topic 5 : Likelihood
-
     Topic 6 : Posterior Probability
-
     Topic 7 : Independence Assumption
-
     Topic 8 : Gaussian Naive Bayes
-
     Topic 9 : Multinomial Naive Bayes
-
     Topic 10 : Bernoulli Naive Bayes
-
     Topic 11 : Laplace Smoothing
-
     Topic 12 : Log Probability
-
     Topic 13 : Hyperparameters
-
     Topic 14 : Spam Detection Project
 
 ------------------------------------------------------------
@@ -321,41 +282,29 @@ Chapter 9 : Naive Bayes
 Chapter 10 : K-Nearest Neighbors (KNN)
 
     Topic 1 : Why KNN
-
     Topic 2 : Lazy Learning
-
     Topic 3 : Distance Metrics
         Euclidean
         Manhattan
         Minkowski
         Cosine
-
     Topic 4 : Choosing K
-
     Topic 5 : Voting
-
     Topic 6 : Weighted KNN
-
     Topic 7 : KD Tree
-
     Topic 8 : Ball Tree
-
     Topic 9 : Curse of Dimensionality
-
     Topic 10 : Hyperparameters
         n_neighbors
         weights
         metric
         algorithm
         leaf_size
-
     Topic 11 : Approximate Nearest Neighbor
         FAISS
         Annoy
         HNSW
-
     Topic 12 : Breast Cancer Project
-
     Topic 13 : Wine Regression Project
 
 ------------------------------------------------------------
@@ -363,11 +312,8 @@ Chapter 10 : K-Nearest Neighbors (KNN)
 Chapter 11 : Artificial Neural Networks (ANN)
 
     Topic 1 : Why Deep Learning
-
     Topic 2 : Biological Neuron
-
     Topic 3 : Perceptron
-
     Topic 4 : Activation Functions
         Binary Step
         Linear
@@ -377,41 +323,32 @@ Chapter 11 : Artificial Neural Networks (ANN)
         Leaky ReLU
         ELU
         Softmax
-
     Topic 5 : Loss Functions
         MSE
         MAE
         Binary Cross Entropy
         Categorical Cross Entropy
         Huber Loss
-
     Topic 6 : Feed Forward Neural Networks
-
     Topic 7 : Forward Propagation
-
     Topic 8 : Backpropagation
-
     Topic 9 : Gradient Descent
         Batch Gradient Descent
         Mini Batch Gradient Descent
         Stochastic Gradient Descent
-
     Topic 10 : Optimizers
         SGD
         Momentum
         AdaGrad
         RMSProp
         Adam
-
     Topic 11 : Vanishing and Exploding Gradient
-
     Topic 12 : Regularization
         L1
         L2
         Dropout
         Early Stopping
         Batch Normalization
-
     Topic 13 : Hyperparameters
         Learning Rate
         Epochs
@@ -420,7 +357,6 @@ Chapter 11 : Artificial Neural Networks (ANN)
         Hidden Units
         Optimizer
         Activation Function
-
     Topic 14 : MNIST Project
 
 ------------------------------------------------------------
@@ -428,26 +364,17 @@ Chapter 11 : Artificial Neural Networks (ANN)
 Chapter 12 : Convolutional Neural Networks (CNN)
 
     Topic 1 : Why CNN
-
     Topic 2 : CNN vs ANN
-
     Topic 3 : Image Representation
-
     Topic 4 : Convolution Operation
-
     Topic 5 : Filters and Kernels
-
     Topic 6 : Stride
-
     Topic 7 : Padding
-
     Topic 8 : Feature Maps
-
     Topic 9 : Pooling
         Max Pooling
         Average Pooling
         Global Average Pooling
-
     Topic 10 : CNN Architectures
         LeNet
         AlexNet
@@ -456,13 +383,9 @@ Chapter 12 : Convolutional Neural Networks (CNN)
         ResNet
         DenseNet
         EfficientNet
-
     Topic 11 : Transfer Learning
-
     Topic 12 : Data Augmentation
-
     Topic 13 : Hyperparameters
-
     Topic 14 : CIFAR-10 Project
 
 ------------------------------------------------------------
@@ -470,29 +393,16 @@ Chapter 12 : Convolutional Neural Networks (CNN)
 Chapter 13 : Transformers & Modern Deep Learning
 
     Topic 1 : Why Transformers
-
     Topic 2 : Limitations of RNN and LSTM
-
     Topic 3 : Attention Mechanism
-
     Topic 4 : Self Attention
-
     Topic 5 : Multi Head Attention
-
     Topic 6 : Positional Encoding
-
     Topic 7 : Encoder Architecture
-
     Topic 8 : Decoder Architecture
-
     Topic 9 : Transformer Architecture
-
     Topic 10 : BERT
-
     Topic 11 : GPT
-
     Topic 12 : Fine Tuning Transformers
-
     Topic 13 : Hugging Face Transformers
-
     Topic 14 : NLP Project
